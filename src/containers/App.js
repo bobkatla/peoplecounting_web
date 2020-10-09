@@ -5,7 +5,7 @@ import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
 import './App.css';
 
-const api = "http://localhost:5000";
+const api = "https://peoplecounting-server-api.herokuapp.com";
 
 class App extends React.Component {
     constructor() {
